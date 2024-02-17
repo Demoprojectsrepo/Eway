@@ -31,14 +31,6 @@ sap.ui.define([
                         sap.m.MessageBox.error("Error reading data");
                     }
                 });
-           
-        
-                
-
-
-                
-
-
 
 
             },onBack: function () {
