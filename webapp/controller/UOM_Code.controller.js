@@ -31,7 +31,12 @@ sap.ui.define([
                         sap.m.MessageBox.error("Error reading data");
                     }
                 });
-            
+           
+                
+
+
+                
+
             },onBack: function () {
                 debugger
                 /*	var oRouter = sap.ui.core.UIComponent.getRouterFor(this);
